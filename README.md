@@ -1,4 +1,2 @@
-tunisia-election-data
+Egypt Election Data
 =====================
-
-See setup.md for an overview of this project
