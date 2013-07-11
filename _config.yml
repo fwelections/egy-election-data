@@ -1,12 +1,10 @@
 auto: true
 server: true
 permalink: /:categories/:title
-baseurl: /databrowser
-github: "http://github.com/fwelections/databrowser"
+baseurl: /egy-election-data
+github: "http://github.com/mbaldassaro/egy-election-data"
 languages:
   - name: 'English'
     key: 'en'
-  - name: 'French'
-    key: 'fr'
   - name: 'Arabic'
     key: 'ar'
