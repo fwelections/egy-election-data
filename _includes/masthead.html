@@ -11,7 +11,7 @@
         {% endfor %}
         <ul class='dropdown'>
           {% for i in site.languages %}
-          <li><a href='{{site.baseurl}}/{{i.key}}/projects' {% if page.language == i.key %}class='active'{% endif %}>{{i.name}}</a></li>
+          <li><a href='{{site.baseurl}}/{{i.key}}/' {% if page.language == i.key %}class='active'{% endif %}>{{i.name}}</a></li>
           {% endfor %}
         </ul>
       </div>
